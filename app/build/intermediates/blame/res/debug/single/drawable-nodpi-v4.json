@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\egg.png",
+        "source": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\drawable-nodpi\\egg.png"
+    },
+    {
+        "merged": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo.png",
+        "source": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\drawable-nodpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\question.png",
+        "source": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\drawable-nodpi\\question.png"
+    },
+    {
+        "merged": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\texture.png",
+        "source": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\drawable-nodpi\\texture.png"
+    },
+    {
+        "merged": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\noise_disc.png",
+        "source": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\drawable-nodpi\\noise_disc.png"
+    },
+    {
+        "merged": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\refresh.png",
+        "source": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\drawable-nodpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\noise_index.png",
+        "source": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\drawable-nodpi\\noise_index.png"
+    }
+]

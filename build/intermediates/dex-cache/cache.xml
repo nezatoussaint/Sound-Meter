@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HviewTech\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.0-beta1\54d65d51b5ebec588a19b2384efb6395b5bf5b18\MPAndroidChart-v3.0.0-beta1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="54d65d51b5ebec588a19b2384efb6395b5bf5b18">
+        <dex dex="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.0-beta1_3ea591904da11316ff24996e1c0a33fab21d5020.jar" />
+    </item>
+    <item
+        jar="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_1e1a40c63cd46cdedef2ae00482c4b6c299e1c56.jar" />
+    </item>
+    <item
+        jar="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_c0f388832a4c98ac1949b3b284f06886d5428559.jar" />
+    </item>
+    <item
+        jar="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_2ded69173b03a03e0787488a04d3e0be3b9ff44d.jar" />
+    </item>
+    <item
+        jar="C:\Users\HviewTech\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_01e870b479ae1b55b15d019a6221e9bf8382ae5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\exploded-aar\com.github.neopixl\PixlUI\v1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="20223cb77f297e6cab6f521fd11bc88d8db1db17">
+        <dex dex="C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\pre-dexed\debug\com.github.neopixl-PixlUI-v1.1.0_eda1c3b8ddf3dcbeda9ad12868cd4e7579eb7120.jar" />
+    </item>
+
+</items>

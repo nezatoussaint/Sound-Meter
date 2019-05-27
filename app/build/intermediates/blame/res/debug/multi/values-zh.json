@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 475,
+                        "endColumn": 45,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 48,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 567,
+                        "endColumn": 45,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 57,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 82,
+                        "endColumn": 54,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 51,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 186,
+                        "endColumn": 48,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 51,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 137,
+                        "endColumn": 48,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 48,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 521,
+                        "endColumn": 45,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 48,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 429,
+                        "endColumn": 45,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 63,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 288,
+                        "endColumn": 60,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 54,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 349,
+                        "endColumn": 51,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 55,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 235,
+                        "endColumn": 52,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endColumn": 40,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 40,
+                        "endOffset": 52
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 54,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 639,
+                        "endColumn": 51,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 76,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 896,
+                        "endColumn": 73,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 58,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 691,
+                        "endColumn": 55,
+                        "endOffset": 745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 52,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 747,
+                        "endColumn": 49,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 53,
+                    "endOffset": 922
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 797,
+                        "endColumn": 50,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 927,
+                    "endColumn": 50,
+                    "endOffset": 973
+                },
+                "from": {
+                    "file": "C:\\Users\\HviewTech\\AndroidStudioProjects\\Sound-Meter\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 848,
+                        "endColumn": 47,
+                        "endOffset": 894
+                    }
+                }
+            }
+        ]
+    }
+]
